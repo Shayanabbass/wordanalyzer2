@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import Alert from './COMPONENTS/Alert';
-import About from './COMPONENTS/About';
+//import About from './COMPONENTS/About';
 import Navbar from './COMPONENTS/Navbar';
 import Textform from './COMPONENTS/Textform';
 /*import {
